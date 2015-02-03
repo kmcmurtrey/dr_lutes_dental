@@ -50,11 +50,13 @@ Typography
 ===================================================*/
 
 h1 {
-  font-size: 48px;
+  font-size: 2em;
+  text-align: center;
 }
 
 h3 {
-  font-size: 21px;
+  font-size: 1.125em;
+  text-align: center;
 }
 
 /*===================================================
@@ -62,23 +64,46 @@ Header
 ===================================================*/
 
 .primary-header h1 {
-  float: left;
+  margin: 10px 0;
 }
 
-.primary-header h3 {
-  text-align: right;
-}
 
 /*===================================================
 Nav
 ===================================================*/
 
 .nav {
-  text-align: right;
+  text-align: center;
+  margin: 10px 0;
+  padding: 10px 0;
 }
 
 .nav li {
   display: inline-block;
+  margin: 0 10px;
+}
+
+.nav li:last-child {
+  margin-right: 0;
+}
+
+/*===================================================
+Footer
+===================================================*/
+
+footer p {
+  text-align: center;
+  font-size: 0.875em;
+  margin: 5px 0;
+  
+}
+
+/*===================================================
+Links
+===================================================*/
+
+a {
+  text-decoration: none;
 }
 
 /*===================================================
