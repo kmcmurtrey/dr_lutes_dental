@@ -46,22 +46,37 @@ table {
 }
 
 /*===================================================
+General
+===================================================*/
+
+
+
+/*===================================================
 Typography
 ===================================================*/
 
 h1 {
   font-size: 2em;
-  text-align: center;
+  line-height: 1.25em;
 }
 
-h3 {
+h2 {
+  font-size: 1.625em;
+  line-height: 1.1538em;
+}
+
+h4 {
   font-size: 1.125em;
-  text-align: center;
+  line-height: 1.111em;
 }
 
 /*===================================================
 Header
 ===================================================*/
+
+.primary-header {
+  text-align: center;
+}
 
 .primary-header h1 {
   margin: 10px 0;
@@ -113,12 +128,23 @@ Grid
 .container {
   max-width: 960px;
   margin: 0 auto;
+  padding: 0 5%;
 }
 
 /*===================================================
-Temp Spacing
+Primary Content
 ===================================================*/
 
-section {
-  height: 200px;
+.main-content h2 {
+text-align: center;
+}
+
+.main-content p {
+  line-height: 1.25em;
+  margin: 1em 0;
+}
+
+.main-content img {
+  max-width: 100%;
+  border-radius: 50%;
 }
