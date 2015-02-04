@@ -46,45 +46,105 @@ table {
 }
 
 /*===================================================
+General
+===================================================*/
+
+
+
+/*===================================================
 Typography
 ===================================================*/
 
 h1 {
-  font-size: 48px;
+  font-size: 2em;
+  line-height: 1.25em;
 }
 
-h3 {
-  font-size: 21px;
+h2 {
+  font-size: 1.625em;
+  line-height: 1.1538em;
+}
+
+h4 {
+  font-size: 1.125em;
+  line-height: 1.111em;
 }
 
 /*===================================================
 Header
 ===================================================*/
 
-.primary-header h1 {
-  float: left;
+.primary-header {
+  text-align: center;
 }
 
-.primary-header h3 {
-  text-align: right;
+.primary-header h1 {
+  margin: 10px 0;
 }
+
 
 /*===================================================
 Nav
 ===================================================*/
 
 .nav {
-  text-align: right;
+  text-align: center;
+  margin: 10px 0;
+  padding: 10px 0;
 }
 
 .nav li {
   display: inline-block;
+  margin: 0 10px;
+}
+
+.nav li:last-child {
+  margin-right: 0;
 }
 
 /*===================================================
-Temp Spacing
+Footer
 ===================================================*/
 
-section {
-  height: 200px;
+footer p {
+  text-align: center;
+  font-size: 0.875em;
+  margin: 5px 0;
+
+}
+
+/*===================================================
+Links
+===================================================*/
+
+a {
+  text-decoration: none;
+}
+
+/*===================================================
+Grid
+===================================================*/
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+/*===================================================
+Primary Content
+===================================================*/
+
+.main-content h2 {
+text-align: center;
+}
+
+.main-content p {
+  line-height: 1.25em;
+  margin: 1em 0;
+}
+
+.main-content img {
+  max-width: 100%;
+  border-radius: 50%;
 }
