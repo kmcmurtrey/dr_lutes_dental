@@ -120,7 +120,12 @@ Nav
 }
 
 .nav a {
-  padding: 10px;
+  height: 100%;
+  padding: 9px;
+}
+
+.nav a:hover {
+  background-color: gray;
 }
 
 /*===================================================
