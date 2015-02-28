@@ -82,6 +82,10 @@ h4 {
   line-height: 1.111em;
 }
 
+p {
+  line-height: 1.25em;
+}
+
 /*===================================================
 Header
 ===================================================*/
@@ -147,6 +151,7 @@ footer p {
 
 .copyright {
   padding: 2% 0;
+  margin-bottom: 10px;
   background-color: gray;
   color: #fff;
 }
@@ -179,7 +184,6 @@ text-align: center;
 }
 
 .main-content p {
-  line-height: 1.25em;
   margin: 1em 0;
 }
 
