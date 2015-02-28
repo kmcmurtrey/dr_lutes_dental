@@ -117,6 +117,7 @@ Nav
 
 .selected {
   background-color: gray;
+  color: #fff;
 }
 
 .nav a {
@@ -126,6 +127,7 @@ Nav
 
 .nav a:hover {
   background-color: gray;
+  color: #fff;
 }
 
 /*===================================================
@@ -145,6 +147,7 @@ Links
 
 a {
   text-decoration: none;
+  color: #000;
 }
 
 /*===================================================
