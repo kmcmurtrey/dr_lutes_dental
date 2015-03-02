@@ -84,6 +84,7 @@ h4 {
 
 p {
   line-height: 1.25em;
+  margin: 1em 0;
 }
 
 /*===================================================
@@ -180,14 +181,41 @@ Grid
 Home Page
 ===================================================*/
 
-.main-content h2 {
+.home h2 {
 text-align: center;
 }
 
-.main-content p {
-  margin: 1em 0;
-}
 
-.main-content img {
+.home img {
   width: 100%;  
 }
+
+/*===================================================
+About Page
+===================================================*/
+
+.about img {
+  border-radius: 5%;
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
