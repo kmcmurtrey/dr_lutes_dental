@@ -191,7 +191,6 @@ Home Page
 text-align: center;
 }
 
-
 .home img {
   width: 100%;  
 }
@@ -203,6 +202,12 @@ About Page
 .about img {
   border-radius: 5%;
   width: 200px;
+  display: block;
+  margin: 5px auto;
+}
+
+.about h2, h3 {
+  text-align: center;
 }
 
 /*===================================================
