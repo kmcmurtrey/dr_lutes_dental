@@ -105,6 +105,10 @@ Header
   margin: 10px 0;
 }
 
+.primary-header a {
+  color: black;
+}
+
 
 /*===================================================
 Nav
@@ -126,17 +130,13 @@ Nav
   margin-right: 0;
 }
 
-.selected {
-  background-color: gray;
-  color: #fff;
-}
-
 .nav a {
   height: 100%;
   padding: 9px;
+  color: black;
 }
 
-.nav a:hover {
+.nav a:hover, a.selected {
   background-color: gray;
   color: #fff;
 }
@@ -150,6 +150,10 @@ footer p {
   font-size: 0.875em;
   margin: 5px 0;
   line-height: 1.5em;
+}
+
+footer a {
+  color: black;
 }
 
 .footer-nav {
