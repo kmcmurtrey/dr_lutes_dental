@@ -76,6 +76,7 @@ h1 {
 h2 {
   font-size: 1.625em;
   line-height: 1.1538em;
+  text-align: center;
 }
 
 h3 {
@@ -191,10 +192,6 @@ Grid
 Home Page
 ===================================================*/
 
-.home h2 {
-text-align: center;
-}
-
 .home img {
   width: 100%;  
 }
@@ -210,8 +207,16 @@ About Page
   margin: 5px auto;
 }
 
-.about h2, h3 {
+.about h3 {
   text-align: center;
+}
+
+/*===================================================
+Forms Page
+===================================================*/
+
+.forms h3 {
+  text-align: left;
 }
 
 /*===================================================
