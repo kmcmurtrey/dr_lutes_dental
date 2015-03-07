@@ -124,7 +124,6 @@ Nav
 .nav li {
   display: inline-block;
   margin: 0 2%;
-  padding: 2% 0;
 }
 
 .nav li:last-child {
@@ -132,8 +131,9 @@ Nav
 }
 
 .nav a {
+  display: inline-block;
   height: 100%;
-  padding: 9px;
+  padding: 10px;
   color: black;
 }
 
