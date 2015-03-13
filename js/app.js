@@ -1,14 +1,5 @@
-//$(funtion() {
-//  var pull = $('#pull');
-//  var menu = $('nav ul');
-//  var menuHeight = menu.height();
-//  
-//  
-//  $(pull).on('click', function(e) {
-//    e.preventDefault();
-//    menu.slideToggle();
-//  });
-//});
+//To Do: fix mobile nav on other pages
+
 var menu = $('nav ul');
 
 $('#pull').click(function(e) {
