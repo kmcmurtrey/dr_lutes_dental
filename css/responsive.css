@@ -1,0 +1,30 @@
+@media screen and (max-width: 480px) {
+  nav ul {
+    display: none;
+    height: auto;
+  }
+  nav li {
+    width: 100%;
+    display: block;
+  }
+  nav li a {
+    border-bottom: 1px solid black;
+  }
+  nav a#pull {
+    display: block;
+    width: 100%;
+    position: relative;
+    text-align: left;
+    text-indent: 25px;
+  }
+  nav a#pull:after {
+    content: '';
+    background: url('../img/nav-icon.png') no-repeat;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    top: 5px;  
+  }
+}
