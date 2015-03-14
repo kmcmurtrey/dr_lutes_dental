@@ -9,6 +9,7 @@
   }
   nav li a {
     border-bottom: 1px solid black;
+    width: 100%;
   }
   nav a#pull {
     display: block;
