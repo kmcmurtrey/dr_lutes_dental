@@ -101,6 +101,7 @@ Header
 .primary-header {
   text-align: center;
   width: 100%;
+  background-color: darkgray;
 }
 
 .primary-header h1 {
@@ -109,6 +110,12 @@ Header
 
 .primary-header a {
   color: black;
+}
+
+.logo {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
 }
 
 
