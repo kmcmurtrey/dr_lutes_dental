@@ -112,7 +112,7 @@ Header
   color: black;
 }
 
-.logo {
+.logo img {
   width: 300px;
   height: 100px;
   margin: 0 auto;
@@ -127,6 +127,10 @@ Nav
   text-align: center;
   margin: 10px 0;
   background-color: lightgray;
+}
+
+.nav ul {
+  width: 100%;
 }
 
 .nav li {
