@@ -36,5 +36,17 @@
 
 
 @media screen and (min-width: 660px) {
-  
+  .header-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 5%;
+    position: relative;
+  }
+  .logo {
+    float: left;
+  }
+  .address {
+    float: right;
+    margin: 20px 0 0 0;
+  }
 }

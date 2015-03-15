@@ -1,0 +1,30 @@
+Modify header for desktop.
+	Either address in middle and phone on right, or both on right.
+	Styles of address/phone.
+
+Logo
+	Lighten color.
+	Fill gaps.
+
+Add sidebar/aside to some/all pages.
+	What content?
+
+Colors
+	Color of text in header and footer.
+	Link color.
+
+Content
+	Description of business for homepage
+	New patient form
+	List of services
+	Other
+
+Image slideshow on homepage
+	Advanced: make it fade in and out
+
+
+
+COMPLETED
+
+Modify header for desktop.
+	Move logo to left.

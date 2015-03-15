@@ -65,6 +65,23 @@ Grid
 }
 
 /*===================================================
+Clearfix
+===================================================*/
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+/*===================================================
 Typography
 ===================================================*/
 
@@ -125,7 +142,7 @@ Nav
 
 .nav {
   text-align: center;
-  margin: 10px 0;
+  margin-bottom: 10px;
   background-color: lightgray;
 }
 
