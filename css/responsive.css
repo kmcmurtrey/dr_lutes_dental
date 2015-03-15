@@ -3,6 +3,10 @@
     display: none;
     height: auto;
   }
+  nav ul {
+    display: none;
+    height: auto;
+  }
   nav li {
     width: 100%;
     display: block;

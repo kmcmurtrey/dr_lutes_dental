@@ -1,6 +1,6 @@
 //To Do: fix mobile nav on other pages
 
-var menu = $('nav ul');
+var menu = $('.header-nav-slide');
 
 $('#pull').click(function(e) {
   e.preventDefault();
