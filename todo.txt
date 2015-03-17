@@ -1,6 +1,12 @@
 Modify header for desktop.
 	Either address in middle and phone on right, or both on right.
 	Styles of address/phone.
+  Add header styles to other pages.
+  
+Nav
+  Make link boxes bigger - perhaps by commenting between them in the  HTML.
+
+Stretch Footer across page.
 
 Logo
 	Lighten color.
@@ -17,12 +23,14 @@ Content
 	Description of business for homepage
 	New patient form
 	List of services
+      Family Dentistry, Free Consultations
+      Don't list everything
 	Other
 
 Image slideshow on homepage
 	Advanced: make it fade in and out
 
-
+BBB
 
 COMPLETED
 
