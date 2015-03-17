@@ -28,6 +28,8 @@ Content
 
 Image slideshow on homepage
 	Advanced: make it fade in and out
+  
+Javascript for copyright date.
 
 BBB - not a member
 
