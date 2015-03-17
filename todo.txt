@@ -1,7 +1,7 @@
 Modify header for desktop.
 	Either address in middle and phone on right, or both on right.
 	Styles of address/phone.
-  Add header styles to other pages.
+  
   
 Nav
   Make link boxes bigger - perhaps by commenting between them in the  HTML.
@@ -30,9 +30,10 @@ Content
 Image slideshow on homepage
 	Advanced: make it fade in and out
 
-BBB
+BBB - not a member
 
 COMPLETED
 
 Modify header for desktop.
 	Move logo to left.
+  Add header styles to other pages.
