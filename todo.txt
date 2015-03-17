@@ -6,11 +6,9 @@ Modify header for desktop.
 Nav
   Make link boxes bigger - perhaps by commenting between them in the  HTML.
 
-Stretch Footer across page.
-
 Logo
 	Lighten color.
-	Fill gaps.
+	
 
 Add sidebar/aside to some/all pages.
 	What content?
@@ -18,6 +16,7 @@ Add sidebar/aside to some/all pages.
 Colors
 	Color of text in header and footer.
 	Link color.
+  Where else to use blue from logo.
 
 Content
 	Description of business for homepage
@@ -32,8 +31,15 @@ Image slideshow on homepage
 
 BBB - not a member
 
+
+
 COMPLETED
 
 Modify header for desktop.
 	Move logo to left.
   Add header styles to other pages.
+
+Stretch Footer across page.
+
+Logo
+  Fill gaps.
