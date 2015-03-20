@@ -64,6 +64,17 @@
     display: block;
     margin: 0 0 10px 210px;
   }
+  /* Telephone Header styles */
+  .tel {
+  background-color: #232C67;
+  border-radius: 10px;
+}
+  .tel a {
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10%;
+  }
 }
 
 

@@ -1,39 +1,37 @@
-Modify header for desktop.
-	Either address in middle and phone on right, or both on right.
-	Styles of address/phone.
-  
-  
-Nav
-  Make link boxes wider - perhaps by commenting between them in the  HTML.
-
-Logo
-	Lighten color.
-	
 Add sidebar/aside to some/all pages.
 	What content?
+  List of services?
+      Family Dentistry, Free Consultations
+      Don't list everything
 
 Colors
 	Color of text in header and footer.
 	Link color.
   Where else to use blue from logo.
-
+  
 Content
 	Description of business for homepage
 	New patient form
-  Dental Associations.
-	List of services
-      Family Dentistry, Free Consultations
-      Don't list everything
+  Dental Associations.	
 	Other
- 
-About
-  Adjust picture/text layout.
- 
+  
 Contact
   Google map
+  
+
 
 Image slideshow on homepage
 	Advanced: make it fade in and out
+
+Modify header for desktop.
+	Either address in middle and phone on right, or both on right.
+	Styles of address/phone.
+   
+Nav
+  Make link boxes wider - perhaps by commenting between them in the  HTML.
+
+Logo
+	Lighten color.
   
 Javascript for copyright date.
 
@@ -53,6 +51,9 @@ Logo
   Fill gaps.
   
 Add border/color to phone number in header.
+
+About
+  Adjust picture/text layout.
   
   
   
