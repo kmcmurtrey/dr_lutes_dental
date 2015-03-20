@@ -37,8 +37,6 @@ Image slideshow on homepage
   
 Javascript for copyright date.
 
-Add border/color to phone number in header.
-
 BBB - not a member
 
 
@@ -53,3 +51,24 @@ Stretch Footer across page.
 
 Logo
   Fill gaps.
+  
+Add border/color to phone number in header.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

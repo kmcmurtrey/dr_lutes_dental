@@ -136,6 +136,18 @@ Header
   margin: 0 auto;
 }
 
+.tel {
+  background-color: #232C67;
+  border-radius: 10px;
+}
+
+.tel a {
+  display: inline-block;
+  padding: 10px 30px;
+  color: #fff;
+  border-radius: 10%;
+}
+
 
 /*===================================================
 Nav
