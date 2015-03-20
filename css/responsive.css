@@ -49,6 +49,21 @@
     float: right;
     margin: 20px 0 0 0;
   }  
+  /* About Page */
+  .profile {
+    margin-top: 10px;
+  }
+  .profile img {
+    float: left;
+  }
+  .profile h3 {
+    display: inline-block;
+    margin: 10px;
+  }
+  .profile p {
+    display: block;
+    margin: 0 0 10px 210px;
+  }
 }
 
 
