@@ -14,10 +14,8 @@ Content
 	New patient form
   Dental Associations.	
 	Other
-  
-Contact
-  Google map
-  
+
+
 
 
 Image slideshow on homepage
@@ -54,6 +52,9 @@ Add border/color to phone number in header.
 
 About
   Adjust picture/text layout.
+  
+Contact
+  Google map
   
   
   

@@ -259,8 +259,9 @@ Forms Page
 Contact Page
 ===================================================*/
 
-table {
+.hours {
   border-bottom: 2px solid gray;
+  margin-bottom: 20px;
 }
 
 thead th {
@@ -280,6 +281,7 @@ th, td {
   padding-bottom: 56.25%;
   padding-top: 25px;
   height: 0;
+  margin-bottom: 50px;
   overflow: hidden;
 }
 
