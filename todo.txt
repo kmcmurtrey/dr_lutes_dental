@@ -4,12 +4,11 @@ Modify header for desktop.
   
   
 Nav
-  Make link boxes bigger - perhaps by commenting between them in the  HTML.
+  Make link boxes wider - perhaps by commenting between them in the  HTML.
 
 Logo
 	Lighten color.
 	
-
 Add sidebar/aside to some/all pages.
 	What content?
 
@@ -21,15 +20,24 @@ Colors
 Content
 	Description of business for homepage
 	New patient form
+  Dental Associations.
 	List of services
       Family Dentistry, Free Consultations
       Don't list everything
 	Other
+ 
+About
+  Adjust picture/text layout.
+ 
+Contact
+  Google map
 
 Image slideshow on homepage
 	Advanced: make it fade in and out
   
 Javascript for copyright date.
+
+Add border/color to phone number in header.
 
 BBB - not a member
 
