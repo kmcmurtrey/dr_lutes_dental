@@ -15,11 +15,11 @@ Content
   Dental Associations.	
 	Other
 
-
-
-
 Image slideshow on homepage
 	Advanced: make it fade in and out
+
+
+
 
 Modify header for desktop.
 	Either address in middle and phone on right, or both on right.
