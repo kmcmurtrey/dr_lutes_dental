@@ -14,6 +14,7 @@ Content
 	New patient form
   Dental Associations.	
 	Other
+  Preventive care/dental info
 
 Image slideshow on homepage
 	Advanced: make it fade in and out
