@@ -55,6 +55,7 @@
   }
   .profile img {
     float: left;
+    margin-right: 10px;
   }
   .profile h3 {
     display: inline-block;
@@ -62,7 +63,7 @@
   }
   .profile p {
     display: block;
-    margin: 0 0 10px 210px;
+    margin: 0 0 10px 10px;
   }
   /* Telephone Header styles */
   .tel {
