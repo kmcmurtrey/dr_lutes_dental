@@ -1,7 +1,5 @@
 Sidebar content - adjust styling
 
-Resolve layout issues with aside on 480-660px screens.
-
 Colors
 	Color of text in header and footer.
 	Link color.
@@ -60,6 +58,8 @@ Add sidebar/aside to some/all pages.
   List of services?
       Family Dentistry, Free Consultations
       Don't list everything
+      
+Resolve layout issues with aside on 480-660px screens.
   
   
   

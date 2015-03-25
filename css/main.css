@@ -237,7 +237,8 @@ Home Page
 ===================================================*/
 
 .gallery {
-  width: 100%;  
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 /*===================================================
@@ -245,7 +246,7 @@ Aside
 ===================================================*/
 
 aside {
-  border: 5px solid #232C67;
+  border: 3px solid darkgray;
   padding: 5px;
   border-radius: 5%;
 }
