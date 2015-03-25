@@ -1,8 +1,4 @@
-Add sidebar/aside to some/all pages.
-	What content?
-  List of services?
-      Family Dentistry, Free Consultations
-      Don't list everything
+Sidebar content - adjust styling
 
 Resolve layout issues with aside on 480-660px screens.
 
@@ -58,6 +54,12 @@ About
   
 Contact
   Google map
+  
+Add sidebar/aside to some/all pages.
+	What content?
+  List of services?
+      Family Dentistry, Free Consultations
+      Don't list everything
   
   
   
