@@ -22,8 +22,7 @@ Modify header for desktop.
 	Either address in middle and phone on right, or both on right.
 	Styles of address/phone.
    
-Nav
-  Make link boxes wider - perhaps by commenting between them in the  HTML.
+
 
 Logo
 	Lighten color.
@@ -31,6 +30,7 @@ Logo
 Javascript for copyright date.
 
 BBB - not a member
+
 
 
 
@@ -60,6 +60,9 @@ Add sidebar/aside to some/all pages.
       Don't list everything
       
 Resolve layout issues with aside on 480-660px screens.
+
+Nav
+  Make link boxes wider - perhaps by commenting between them in the  HTML.
   
   
   
