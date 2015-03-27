@@ -24,18 +24,21 @@ function slideSwitch() {
   if ($active.next().length !== 0) {
     $next = $active.next();
   } else {
-    $next = $('#slideshow img:first');
+    $next = $('#slideshow img').first();
   }
   
-  $next.addClass('active');
-  $active.removeClass('active');
+  $active.addClass('last-active');
   
+  $next.css({opacity: 0.0})
+    .addClass('active')
+    .animate({opacity: 1.0}, 1000, function() {
+      $active.removeClass('active last-active');
+  })  
 }
 
 $(function() {
-  setInterval(slideSwitch, 2000);
+  setInterval(slideSwitch, 5000);
 })
-
 
 
 
