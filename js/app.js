@@ -1,4 +1,4 @@
-//To Do: fix mobile nav on other pages
+//Mobile navigation
 
 var menu = $('.header-nav-slide');
 
@@ -13,3 +13,35 @@ $(window).resize(function() {
     menu.removeAttr('style');
   }
 })
+
+
+//Image slideshow
+
+function slideSwitch() {
+  var $active = $('#slideshow img.active');
+  var $next;
+  
+  if ($active.next().length !== 0) {
+    $next = $active.next();
+  } else {
+    $next = $('#slideshow img:first');
+  }
+  
+  $next.addClass('active');
+  $active.removeClass('active');
+  
+}
+
+$(function() {
+  setInterval(slideSwitch, 2000);
+})
+
+
+
+
+
+
+
+
+
+
