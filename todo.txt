@@ -13,7 +13,8 @@ Content
   Preventive care/dental info
 
 Image slideshow on homepage
-	Advanced: make it fade in and out
+	Add styles - border, etc.
+  Make it responsive or change the size for different screens.
 
 
 
@@ -63,6 +64,9 @@ Resolve layout issues with aside on 480-660px screens.
 
 Nav
   Make link boxes wider - perhaps by commenting between them in the  HTML.
+  
+Image slideshow on homepage
+	Advanced: make it fade in and out
   
   
   
