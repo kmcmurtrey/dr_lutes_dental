@@ -238,8 +238,12 @@ Slideshow
 
 #slideshow {
   position: relative;
+/*
   height: 400px;
-  width: 600px;
+  max-width: 600px;
+*/
+  width: 100%;
+  padding-top: 66.67%;
   margin: 10px auto;
 }
 

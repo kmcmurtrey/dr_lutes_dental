@@ -15,7 +15,9 @@ Content
 Image slideshow on homepage
 	Add styles - border, etc.
   Make it responsive or change the size for different screens.
-
+    Maybe #slideshow max-width, and change the #slideshow height for different size windows.
+    Can use padding-top as a % of container width to make it responsive.
+    Put slideshow (width: 100%, padding-top: 66.67%) in col-2-3 underneath the H1.
 
 
 
