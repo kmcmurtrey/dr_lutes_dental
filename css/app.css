@@ -2,6 +2,10 @@
   height: 100px;
 }
 
+.orbit-container {
+  margin-top: 50px;
+}
+
 .top-bar {
   padding-bottom: 100px;
 }
@@ -9,6 +13,7 @@
 .top-bar-section {
   margin-top: 25px;
 }
+
 .highlights-circle {
   border-radius: 50%;
   background-color: gray;
@@ -16,6 +21,7 @@
   width: 200px;
   margin: 10px auto;
 }
+
 .highlights h4,
 .highlights p {
   text-align: center;
@@ -49,6 +55,7 @@ th, td {
   color: #fff;
   padding: 20px 0;
 }
+
 .main-footer p {
   text-align: center;
 }
