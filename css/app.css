@@ -20,3 +20,25 @@
 .highlights p {
   text-align: center;
 }
+
+/*===================================================
+Contact Section
+===================================================*/
+
+.hours {
+  border-bottom: 2px solid gray;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+thead th {
+  font-weight: bold;
+  background-color: gray;
+  color: #fff;
+}
+
+th, td {
+  padding: 0.25rem;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
