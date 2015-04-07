@@ -9,3 +9,14 @@
 .top-bar-section {
   margin-top: 25px;
 }
+.highlights-circle {
+  border-radius: 50%;
+  background-color: gray;
+  height: 200px;
+  width: 200px;
+  margin: 10px auto;
+}
+.highlights h4,
+.highlights p {
+  text-align: center;
+}
