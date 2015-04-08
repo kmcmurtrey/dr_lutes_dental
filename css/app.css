@@ -18,16 +18,17 @@
   margin-right: 0;
 }
 
-.main-nav ul li > a {
-  background-color: white;
-}
-
 .orbit-container {
   margin-top: 37px;
 }
 
 .orbit-timer {
   display: none;
+}
+
+.bullets,
+.about {
+  margin: 100px auto;
 }
 
 .highlights-circle {
@@ -42,6 +43,11 @@
 .highlights p {
   text-align: center;
 }
+
+.contact {
+  margin: 100px auto 25px;
+}
+
 
 /*===================================================
 Contact Section
