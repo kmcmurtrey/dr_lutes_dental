@@ -14,6 +14,10 @@
   margin-top: 37px;
 }
 
+.orbit-timer {
+  display: none;
+}
+
 .highlights-circle {
   border-radius: 50%;
   background-color: gray;
