@@ -44,6 +44,10 @@
   text-align: center;
 }
 
+.headshot {
+  border-radius: 50%;
+}
+
 .contact {
   margin: 100px auto 25px;
 }
