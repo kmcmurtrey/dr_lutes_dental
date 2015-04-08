@@ -1,17 +1,17 @@
 .logo {
-  height: 100px;
-}
-
-.orbit-container {
-  margin-top: 50px;
+  height: 75px;
 }
 
 .top-bar {
-  padding-bottom: 100px;
+  padding-bottom: 75px;
 }
 
 .top-bar-section {
   margin-top: 25px;
+}
+
+.orbit-container {
+  margin-top: 37px;
 }
 
 .highlights-circle {
