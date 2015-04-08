@@ -6,8 +6,20 @@
   padding-bottom: 75px;
 }
 
-.top-bar-section {
-  margin-top: 25px;
+.main-nav {
+  margin-top: 15px;
+}
+
+.main-nav li {
+  margin: 0 20px;
+}
+
+.main-nav ul li:last-child {
+  margin-right: 0;
+}
+
+.main-nav ul li > a {
+  background-color: white;
 }
 
 .orbit-container {
