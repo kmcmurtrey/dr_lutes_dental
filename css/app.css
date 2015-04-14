@@ -28,9 +28,15 @@ h4 {
   margin-right: 0;
 }
 
+.top-bar-section li:not(.has-form) a:not(.button),
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+  border-radius: 5px;
+}
+
 .top-bar-section li:not(.has-form) a:not(.button):hover {
   background: #008CBA;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+}
 
 /*
 .orbit-container {
