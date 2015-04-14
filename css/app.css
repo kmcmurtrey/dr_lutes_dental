@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Lato", sans-serif;
 }
 
+h4 {
+  margin-top: 0;
+}
+
 .logo {
   height: 75px;
 }
@@ -54,11 +58,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px auto;
 }
 
-.highlights h4,
-.highlights p {
-  text-align: center;
-}
-
 .headshot {
   border-radius: 50%;
 }
@@ -74,6 +73,17 @@ h1, h2, h3, h4, h5, h6 {
   height: 75px;
   margin-top: -75px;
   visibility: hidden;
+}
+
+/*===================================================
+Icons
+===================================================*/
+
+.icon {
+  font-size: 4rem;
+  line-height: 200px;
+  vertical-align: middle;
+  color: #fff;
 }
 
 
