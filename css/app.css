@@ -135,6 +135,21 @@ Media Queries
   .main-nav ul li:last-child {
     margin-right: 20px;
   }
+  .bullets,
+  .about,
+  .contact {
+    margin: 50px auto 0;
+  }
+  .headline {
+    margin-bottom: 20px;
+  }
+  .headshot {
+    display: block;
+    margin: 0 auto;
+  }
+  .contact > div {
+    margin-bottom: 20px;
+  }
   /*Mobile Menu*/
   .top-bar-section ul {
     margin-top: 40px;
