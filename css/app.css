@@ -156,6 +156,12 @@ Media Queries
   }
 }
 
+@media only screen and (min-width: 40.063em) {
+  .map {
+    margin-bottom: 20px;
+  }
+}
+
 
 
 
