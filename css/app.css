@@ -55,10 +55,11 @@ h4 {
 
 .highlights-circle {
   border-radius: 50%;
-  background-color: gray;
+  background-color: #232C67;
   height: 200px;
   width: 200px;
   margin: 10px auto;
+  color: #fff;
 }
 
 .headshot {
@@ -86,7 +87,6 @@ Icons
   font-size: 4rem;
   line-height: 200px;
   vertical-align: middle;
-  color: #fff;
 }
 
 
