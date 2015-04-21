@@ -28,14 +28,30 @@ h4 {
   margin-right: 0;
 }
 
-.top-bar-section li:not(.has-form) a:not(.button),
-.top-bar-section li:not(.has-form) a:not(.button):hover {
-  border-radius: 5px;
+/*
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+  background: #fff;
+  color: #232C67;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+*/
+
+.top-bar-section li.active:not(.has-form) a:not(.button),
+.top-bar-section li.active:not(.has-form) a:not(.button):hover{
+  background: none;
 }
 
+.top-bar-section li:not(.has-form) a:not(.button) {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button),
+.top-bar-section li.active:not(.has-form) a:not(.button):hover,
 .top-bar-section li:not(.has-form) a:not(.button):hover {
-  background: #008CBA;
-  color: #FFFFFF;
+  border-radius: 5px;
+  border: 2px solid #fff;
 }
 
 /*
