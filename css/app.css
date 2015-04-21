@@ -111,15 +111,18 @@ Contact Section
 ===================================================*/
 
 .hours {
-  border-bottom: 2px solid gray;
+  border-bottom: 2px solid #232C67;
   margin-bottom: 20px;
   width: 100%;
 }
 
+.hours thead th {
+  color: #fff;
+}
+
 thead th {
   font-weight: bold;
-  background-color: gray;
-  color: #fff;
+  background-color: #232C67;
 }
 
 th, td {
