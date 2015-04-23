@@ -68,9 +68,12 @@ a {
   display: none;
 }
 
-.bullets,
-.about {
+.bullets {
   margin: 100px auto;
+}
+
+.about {
+  margin: 100px auto 50px;
 }
 
 .highlights-circle {
