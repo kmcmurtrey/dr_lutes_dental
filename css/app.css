@@ -89,6 +89,17 @@ a {
   border-radius: 50%;
 }
 
+.button {
+  background-color: #232C67;
+}
+
+.button:hover {
+  background-color: #fff;
+  border: solid 2px #232C67;
+  color: #232C67;
+  font-weight: bold;
+}
+
 .contact {
   margin: 100px auto 25px;
 }
