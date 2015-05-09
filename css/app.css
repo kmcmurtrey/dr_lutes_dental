@@ -10,6 +10,11 @@ a {
   color: #232C67;
 }
 
+a:hover {
+  color: #232C67;
+  border-bottom: #232C67 2px solid;
+}
+
 .logo {
   height: 75px;
   width: 250px;
