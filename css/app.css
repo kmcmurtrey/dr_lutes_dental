@@ -97,6 +97,9 @@ a:hover {
 .button {
   background-color: #232C67;
   font-weight: bold;
+  
+/* Hiding buttons until new forms */
+  display: none;
 }
 
 .button:hover {
