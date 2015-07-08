@@ -102,6 +102,10 @@ a:hover {
   display: none;
 }
 
+.hipaa {
+    display: inline-block;
+}
+
 .button:hover {
   background-color: #fff;
   border: solid 2px #232C67;
